@@ -7,3 +7,9 @@ body {
   color: black;
   font-family: Verdana;
 }
+
+.concarious-parklemon {
+	height: 400px;
+	margin: auto;
+	display: block;
+}
